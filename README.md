@@ -36,11 +36,14 @@ This app provides tools for visual analysis of concrete structures, simulating r
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="screenshots/one" width="250" alt="Visual Inspection Home Screen" />
-  <img src="screenshots/two" width="250" alt="Allow Permission to use Camera or Upload Document" />
-  <img src="screenshots/three" width="250" alt="Use Camera" />
-  <img src="screenshots/three_sub" width="250" alt="Use Image to AI NDT" />
-   <img src="screenshots/four" width="250" alt="Generated Report" />
+![Screenshot_1748489162](https://github.com/user-attachments/assets/20b6d044-2fde-47a4-bb3e-7a611c483e5d)
+![Screenshot_1748488545](https://github.com/user-attachments/assets/0eb2f027-bf51-40d2-91b9-cb4487fca5e4)
+![Screenshot_1748489310](https://github.com/user-attachments/assets/bf61d5a6-0f8a-4471-8c7e-77f804990f72)
+![Screenshot_1748488563](https://github.com/user-attachments/assets/4f5bf166-f08e-4fc0-816b-cfe75db68aee)
+![Screenshot_1748488571](https://github.com/user-attachments/assets/82a6e446-2528-4e23-9ef0-939f6888f6fb)
+
+
+
 </p>
 
 > _You can add more images in the `screenshots/` directory._
